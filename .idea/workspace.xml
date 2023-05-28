@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c32190cb-5206-48ba-982a-ea72f849b40c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/cluetree/ClueNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/cluetree/ClueTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/rbtree/RBColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/rbtree/RBNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/rbtree/RBTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685256289335</updated>
       <workItem from="1685256290486" duration="1631000" />
-      <workItem from="1685258709559" duration="672000" />
+      <workItem from="1685258709559" duration="1037000" />
     </task>
     <servers />
   </component>
