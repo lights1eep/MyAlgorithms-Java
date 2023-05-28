@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c32190cb-5206-48ba-982a-ea72f849b40c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/MergeSortIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/MergeSortRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/SortFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/array/sort/SortType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/utils/SortUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/MyAbstractStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/MyStack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/MyStack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +33,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/file/JavaFile/MyAlgorithms-Java/src/main/java/org/lights1eep/array",
+    "last_opened_file_path": "D:/file/JavaFile/MyAlgorithms-Java/src/main/java/org/lights1eep",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep\array" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java" />
     </key>
@@ -67,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685256289335</updated>
-      <workItem from="1685256290486" duration="1318000" />
+      <workItem from="1685256290486" duration="1631000" />
     </task>
     <servers />
   </component>
