@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c32190cb-5206-48ba-982a-ea72f849b40c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/MyAbstractStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/MyStack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/MyStack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/stack/Node.java" afterDir="false" />
-    </list>
+    <list default="true" id="c32190cb-5206-48ba-982a-ea72f849b40c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,12 +28,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/file/JavaFile/MyAlgorithms-Java/src/main/java/org/lights1eep",
+    "last_opened_file_path": "D:/file/JavaFile/MyAlgorithms-Java/src/main/java/org/lights1eep/tree",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep\tree" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep\array" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java" />
@@ -56,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685256289335</updated>
       <workItem from="1685256290486" duration="1631000" />
+      <workItem from="1685258709559" duration="358000" />
     </task>
     <servers />
   </component>
