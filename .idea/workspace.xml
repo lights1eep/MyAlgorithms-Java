@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c32190cb-5206-48ba-982a-ea72f849b40c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/rbtree/RBColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/rbtree/RBNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lights1eep/tree/rbtree/RBTree.java" afterDir="false" />
-    </list>
+    <list default="true" id="c32190cb-5206-48ba-982a-ea72f849b40c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,18 +28,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/file/JavaFile/MyAlgorithms-Java/src/main/java/org/lights1eep/tree",
+    "last_opened_file_path": "D:/file/JavaFile/MyAlgorithms-Java/src/main/java/org/lights1eep/graph",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep\graph" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep\tree" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java\src\main\java\org\lights1eep\array" />
       <recent name="D:\file\JavaFile\MyAlgorithms-Java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.lights1eep.tree.sortedtree" />
       <recent name="org.lights1eep.utils" />
     </key>
   </component>
@@ -56,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685256289335</updated>
       <workItem from="1685256290486" duration="1631000" />
-      <workItem from="1685258709559" duration="1037000" />
+      <workItem from="1685258709559" duration="1545000" />
     </task>
     <servers />
   </component>
